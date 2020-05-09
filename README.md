@@ -11,11 +11,11 @@ Standard deviation is a metric of variance i.e. how much the individual data poi
 For example, consider the two data sets:
 
 
-* 27 23 25 22 23 20 20 25 29 29
+* **27 23 25 22 23 20 20 25 29 29**
  
 and
 
-* 12 31 31 16 28 47 9 5 40 47
+* **12 31 31 16 28 47 9 5 40 47**
  
 Both have the same mean 25. However, the first dataset has values closer to the mean and the second dataset has values more spread out.
 
@@ -50,6 +50,6 @@ You don’t have to use 2 though, you can tweak it a little to get a better outl
 
 Here’s an example using Python programming. The dataset is a classic normal distribution but as you can see, there are some values like 10, 20 which will disturb our analysis and ruin the scales on our graphs.
 
-![Outlier Removal](Removing Outliers/Outlier Removal.ipynb)
+[Outlier Removal](Removing Outliers/Outlier Removal.ipynb)
 
 
