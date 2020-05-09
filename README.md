@@ -50,6 +50,6 @@ You don’t have to use 2 though, you can tweak it a little to get a better outl
 
 Here’s an example using Python programming. The dataset is a classic normal distribution but as you can see, there are some values like 10, 20 which will disturb our analysis and ruin the scales on our graphs.
 
-[Outlier Removal](Removing Outliers/Outlier Removal.ipynb)
+[Outlier Removal](Removing Outliers/OutlierRemoval.ipynb)
 
 
